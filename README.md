@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @solomonenanaw
-- 👀 I’m interested in coding html, css, Bootstrap ,python and C programming lanugage 
+- 👀 I’m interested in coding html, Css, Bootstrap ,Python and C programming lanugage 
 - 🌱 I’m currently learning ...ALX Software Engineering Program
 - 💞️ I’m looking to collaborate on ... Python Network Programming Project
 - 📫 How to reach me ...sekewbeg@gmail.com
